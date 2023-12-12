@@ -1,0 +1,15 @@
+tench
+goldfish
+great_white_shark
+tiger_shark
+hammerhead
+electric_ray
+stingray
+cock
+hen
+ostrich
+brambling
+goldfinch
+house_finch
+junco
+indigo_bunting
